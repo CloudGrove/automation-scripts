@@ -1,0 +1,1 @@
+../../shell/bin/inspect.sh

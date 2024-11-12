@@ -1,0 +1,1 @@
+../../shell/lib/clean.sh
